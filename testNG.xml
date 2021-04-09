@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name = "BankingProjectNew">
+	<listeners>
+		<listener class-name="com.bankingProjectNew.TestCases.Listeners"/>
+	</listeners>
+
+   <test name= "Banking Application Test1">
+	    <parameter name="browser" value="chrome"/>
+			<classes>
+			  			<class name ="com.bankingProjectNew.TestCases.TC001_LoginTestCase"/>
+			 			<!-- > <class name="com.bankingProjectNew.TestCases.TC002_LoginDataDrivenWithExcel"/> -->
+			  			<class name="com.bankingProjectNew.TestCases.TC003_LoginTestDataProvider"/>
+			  			<class name="com.bankingProjectNew.TestCases.TC004_AddNewCustomerTest"/> 
+			  			<class name="com.bankingProjectNew.TestCases.TC005_AddNewAccount"/>
+			</classes>
+   </test>
+
+</suite>

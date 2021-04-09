@@ -1,0 +1,13 @@
+com\bankingProjectNew\TestCases\TC005_AddNewAccount.class
+com\bankingProjectNew\TestCases\TC004_AddNewCustomerTest.class
+com\bankingProjectNew\PageObject\Page002_AddNewCustomerPage.class
+com\bankingProjectNew\Utilities\ExtentReporterNG.class
+com\bankingProjectNew\Utilities\XLUtils.class
+com\bankingProjectNew\TestCases\BaseClass.class
+com\bankingProjectNew\TestCases\TC001_LoginTestCase.class
+com\bankingProjectNew\TestCases\TC003_LoginTestDataProvider.class
+com\bankingProjectNew\PageObject\Page001_LoginPage.class
+com\bankingProjectNew\TestCases\Listeners.class
+com\bankingProjectNew\Utilities\ReadConfig.class
+com\bankingProjectNew\TestCases\TC002_LoginDataDrivenWithExcel.class
+com\bankingProjectNew\PageObject\Page003_AddNewAccount.class
