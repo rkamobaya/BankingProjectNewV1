@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="8" passed="6" failed="2" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-04-08T11:25:45 EDT" name="BankingProjectNew" finished-at="2021-04-08T11:27:27 EDT" duration-ms="101821">
+  <suite started-at="2021-04-12T13:37:34 EDT" name="BankingProjectNew" finished-at="2021-04-12T13:39:16 EDT" duration-ms="102199">
     <groups>
     </groups>
-    <test started-at="2021-04-08T11:25:45 EDT" name="Banking Application Test1" finished-at="2021-04-08T11:27:27 EDT" duration-ms="101821">
+    <test started-at="2021-04-12T13:37:34 EDT" name="Banking Application Test1" finished-at="2021-04-12T13:39:16 EDT" duration-ms="102199">
       <class name="com.bankingProjectNew.TestCases.TC004_AddNewCustomerTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.bankingProjectNew.TestCases.TC004_AddNewCustomerTest@49ec71f8]" started-at="2021-04-08T11:26:45 EDT" name="setup" finished-at="2021-04-08T11:26:48 EDT" duration-ms="2411" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.bankingProjectNew.TestCases.TC004_AddNewCustomerTest@49ec71f8]" started-at="2021-04-12T13:38:34 EDT" name="setup" finished-at="2021-04-12T13:38:36 EDT" duration-ms="2491" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,17 +18,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="addNewCustomer()[pri:0, instance:com.bankingProjectNew.TestCases.TC004_AddNewCustomerTest@49ec71f8]" started-at="2021-04-08T11:26:48 EDT" name="addNewCustomer" finished-at="2021-04-08T11:27:02 EDT" duration-ms="14554" status="PASS">
+        <test-method signature="addNewCustomer()[pri:0, instance:com.bankingProjectNew.TestCases.TC004_AddNewCustomerTest@49ec71f8]" started-at="2021-04-12T13:38:36 EDT" name="addNewCustomer" finished-at="2021-04-12T13:38:51 EDT" duration-ms="14773" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addNewCustomer -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bankingProjectNew.TestCases.TC004_AddNewCustomerTest@49ec71f8]" started-at="2021-04-08T11:27:02 EDT" name="tearDown" finished-at="2021-04-08T11:27:03 EDT" duration-ms="653" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bankingProjectNew.TestCases.TC004_AddNewCustomerTest@49ec71f8]" started-at="2021-04-12T13:38:51 EDT" name="tearDown" finished-at="2021-04-12T13:38:52 EDT" duration-ms="646" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.bankingProjectNew.TestCases.TC004_AddNewCustomerTest -->
       <class name="com.bankingProjectNew.TestCases.TC005_AddNewAccount">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.bankingProjectNew.TestCases.TC005_AddNewAccount@1d2adfbe]" started-at="2021-04-08T11:27:03 EDT" name="setup" finished-at="2021-04-08T11:27:05 EDT" duration-ms="2494" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.bankingProjectNew.TestCases.TC005_AddNewAccount@1d2adfbe]" started-at="2021-04-12T13:38:52 EDT" name="setup" finished-at="2021-04-12T13:38:54 EDT" duration-ms="2488" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -39,17 +39,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="addNewCustomerAccountTest()[pri:0, instance:com.bankingProjectNew.TestCases.TC005_AddNewAccount@1d2adfbe]" started-at="2021-04-08T11:27:05 EDT" name="addNewCustomerAccountTest" finished-at="2021-04-08T11:27:26 EDT" duration-ms="21219" status="PASS">
+        <test-method signature="addNewCustomerAccountTest()[pri:0, instance:com.bankingProjectNew.TestCases.TC005_AddNewAccount@1d2adfbe]" started-at="2021-04-12T13:38:54 EDT" name="addNewCustomerAccountTest" finished-at="2021-04-12T13:39:15 EDT" duration-ms="21335" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addNewCustomerAccountTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bankingProjectNew.TestCases.TC005_AddNewAccount@1d2adfbe]" started-at="2021-04-08T11:27:26 EDT" name="tearDown" finished-at="2021-04-08T11:27:27 EDT" duration-ms="619" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bankingProjectNew.TestCases.TC005_AddNewAccount@1d2adfbe]" started-at="2021-04-12T13:39:15 EDT" name="tearDown" finished-at="2021-04-12T13:39:16 EDT" duration-ms="656" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.bankingProjectNew.TestCases.TC005_AddNewAccount -->
       <class name="com.bankingProjectNew.TestCases.TC001_LoginTestCase">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.bankingProjectNew.TestCases.TC001_LoginTestCase@564fabc8]" started-at="2021-04-08T11:25:45 EDT" name="setup" finished-at="2021-04-08T11:25:48 EDT" duration-ms="2904" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.bankingProjectNew.TestCases.TC001_LoginTestCase@564fabc8]" started-at="2021-04-12T13:37:34 EDT" name="setup" finished-at="2021-04-12T13:37:37 EDT" duration-ms="3049" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -60,21 +60,21 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTest()[pri:0, instance:com.bankingProjectNew.TestCases.TC001_LoginTestCase@564fabc8]" started-at="2021-04-08T11:25:48 EDT" name="loginTest" finished-at="2021-04-08T11:25:52 EDT" duration-ms="3906" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:com.bankingProjectNew.TestCases.TC001_LoginTestCase@564fabc8]" started-at="2021-04-12T13:37:37 EDT" name="loginTest" finished-at="2021-04-12T13:37:41 EDT" duration-ms="3624" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="validateHomePageTitle()[pri:0, instance:com.bankingProjectNew.TestCases.TC001_LoginTestCase@564fabc8]" started-at="2021-04-08T11:25:52 EDT" name="validateHomePageTitle" finished-at="2021-04-08T11:25:52 EDT" duration-ms="8" status="PASS">
+        <test-method signature="validateHomePageTitle()[pri:0, instance:com.bankingProjectNew.TestCases.TC001_LoginTestCase@564fabc8]" started-at="2021-04-12T13:37:41 EDT" name="validateHomePageTitle" finished-at="2021-04-12T13:37:41 EDT" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateHomePageTitle -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bankingProjectNew.TestCases.TC001_LoginTestCase@564fabc8]" started-at="2021-04-08T11:25:52 EDT" name="tearDown" finished-at="2021-04-08T11:25:53 EDT" duration-ms="621" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bankingProjectNew.TestCases.TC001_LoginTestCase@564fabc8]" started-at="2021-04-12T13:37:41 EDT" name="tearDown" finished-at="2021-04-12T13:37:41 EDT" duration-ms="645" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.bankingProjectNew.TestCases.TC001_LoginTestCase -->
       <class name="com.bankingProjectNew.TestCases.TC003_LoginTestDataProvider">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.bankingProjectNew.TestCases.TC003_LoginTestDataProvider@16d04d3d]" started-at="2021-04-08T11:25:53 EDT" name="setup" finished-at="2021-04-08T11:25:55 EDT" duration-ms="2372" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.bankingProjectNew.TestCases.TC003_LoginTestDataProvider@16d04d3d]" started-at="2021-04-12T13:37:41 EDT" name="setup" finished-at="2021-04-12T13:37:44 EDT" duration-ms="2421" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -85,7 +85,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.bankingProjectNew.TestCases.TC003_LoginTestDataProvider@16d04d3d]" started-at="2021-04-08T11:25:55 EDT" name="loginTest" data-provider="LoginData" finished-at="2021-04-08T11:26:04 EDT" duration-ms="9065" status="PASS">
+        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.bankingProjectNew.TestCases.TC003_LoginTestDataProvider@16d04d3d]" started-at="2021-04-12T13:37:44 EDT" name="loginTest" data-provider="LoginData" finished-at="2021-04-12T13:37:53 EDT" duration-ms="9187" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -101,7 +101,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.bankingProjectNew.TestCases.TC003_LoginTestDataProvider@16d04d3d]" started-at="2021-04-08T11:26:04 EDT" name="loginTest" data-provider="LoginData" finished-at="2021-04-08T11:26:29 EDT" duration-ms="25266" status="FAIL">
+        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.bankingProjectNew.TestCases.TC003_LoginTestDataProvider@16d04d3d]" started-at="2021-04-12T13:37:53 EDT" name="loginTest" data-provider="LoginData" finished-at="2021-04-12T13:38:18 EDT" duration-ms="25201" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -122,8 +122,8 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LAPTOP-R9SPVK9V', ip: '192.168.1.57', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.114, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\WINDOWS\TEMP\scoped_dir1...}, goog:chromeOptions: {debuggerAddress: localhost:14332}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 823ff7216497d740cbb722ce420ec9a0
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.114, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\WINDOWS\TEMP\scoped_dir3...}, goog:chromeOptions: {debuggerAddress: localhost:6551}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b650c5184af1603a278aab0debf22984
 *** Element info: {Using=xpath, value=//a[text()='Log out']}]]>
             </message>
             <full-stacktrace>
@@ -133,8 +133,8 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LAPTOP-R9SPVK9V', ip: '192.168.1.57', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.114, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\WINDOWS\TEMP\scoped_dir1...}, goog:chromeOptions: {debuggerAddress: localhost:14332}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 823ff7216497d740cbb722ce420ec9a0
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.114, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\WINDOWS\TEMP\scoped_dir3...}, goog:chromeOptions: {debuggerAddress: localhost:6551}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b650c5184af1603a278aab0debf22984
 *** Element info: {Using=xpath, value=//a[text()='Log out']}
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
@@ -192,7 +192,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.bankingProjectNew.TestCases.TC003_LoginTestDataProvider@16d04d3d]" started-at="2021-04-08T11:26:30 EDT" name="loginTest" data-provider="LoginData" finished-at="2021-04-08T11:26:35 EDT" duration-ms="5305" status="FAIL">
+        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.bankingProjectNew.TestCases.TC003_LoginTestDataProvider@16d04d3d]" started-at="2021-04-12T13:38:18 EDT" name="loginTest" data-provider="LoginData" finished-at="2021-04-12T13:38:24 EDT" duration-ms="5287" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -212,8 +212,8 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LAPTOP-R9SPVK9V', ip: '192.168.1.57', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.114, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\WINDOWS\TEMP\scoped_dir1...}, goog:chromeOptions: {debuggerAddress: localhost:14332}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 823ff7216497d740cbb722ce420ec9a0]]>
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.114, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\WINDOWS\TEMP\scoped_dir3...}, goog:chromeOptions: {debuggerAddress: localhost:6551}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b650c5184af1603a278aab0debf22984]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : User or Password is not valid}
@@ -221,8 +221,8 @@ Session ID: 823ff7216497d740cbb722ce420ec9a0]]>
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LAPTOP-R9SPVK9V', ip: '192.168.1.57', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.114, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\WINDOWS\TEMP\scoped_dir1...}, goog:chromeOptions: {debuggerAddress: localhost:14332}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 823ff7216497d740cbb722ce420ec9a0
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.114, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\WINDOWS\TEMP\scoped_dir3...}, goog:chromeOptions: {debuggerAddress: localhost:6551}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b650c5184af1603a278aab0debf22984
 at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
 at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
 at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
@@ -268,7 +268,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.bankingProjectNew.TestCases.TC003_LoginTestDataProvider@16d04d3d]" started-at="2021-04-08T11:26:35 EDT" name="loginTest" data-provider="LoginData" finished-at="2021-04-08T11:26:45 EDT" duration-ms="9030" status="PASS">
+        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.bankingProjectNew.TestCases.TC003_LoginTestDataProvider@16d04d3d]" started-at="2021-04-12T13:38:24 EDT" name="loginTest" data-provider="LoginData" finished-at="2021-04-12T13:38:33 EDT" duration-ms="8945" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -284,7 +284,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bankingProjectNew.TestCases.TC003_LoginTestDataProvider@16d04d3d]" started-at="2021-04-08T11:26:45 EDT" name="tearDown" finished-at="2021-04-08T11:26:45 EDT" duration-ms="606" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bankingProjectNew.TestCases.TC003_LoginTestDataProvider@16d04d3d]" started-at="2021-04-12T13:38:33 EDT" name="tearDown" finished-at="2021-04-12T13:38:34 EDT" duration-ms="615" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

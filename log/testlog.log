@@ -1046,3 +1046,107 @@
 2021-04-08 11:27:11,616 - ebanking -INFO - Enter a random initial deposit
 2021-04-08 11:27:16,935 - ebanking -INFO - Submit the new account form
 2021-04-08 11:27:26,952 - ebanking -INFO - Addition of an account was successful
+2021-04-12 09:44:51,368 - ebanking -INFO - Url is opened
+2021-04-12 09:44:52,267 - ebanking -INFO - Enterring the userID
+2021-04-12 09:44:52,331 - ebanking -INFO - Enterring the password
+2021-04-12 09:44:59,084 - ebanking -INFO - Url is opened
+2021-04-12 09:44:59,183 - ebanking -INFO - Enterred username
+2021-04-12 09:44:59,238 - ebanking -INFO - Enterred password
+2021-04-12 09:45:04,592 - ebanking -INFO - Login is successful
+2021-04-12 09:45:08,127 - ebanking -INFO - Enterred username
+2021-04-12 09:45:08,178 - ebanking -INFO - Enterred password
+2021-04-12 09:45:14,082 - ebanking -INFO - Enterred username
+2021-04-12 09:45:14,142 - ebanking -INFO - Enterred password
+2021-04-12 09:45:19,911 - ebanking -INFO - Enterred username
+2021-04-12 09:45:19,961 - ebanking -INFO - Enterred password
+2021-04-12 09:45:25,343 - ebanking -INFO - Login is successful
+2021-04-12 09:45:31,998 - ebanking -INFO - Url is opened
+2021-04-12 09:45:37,537 - ebanking -INFO - Loggin successfully into the application
+2021-04-12 09:45:37,745 - ebanking -INFO - click on Add New Customer Link
+2021-04-12 09:45:42,831 - ebanking -INFO - Enter customer name
+2021-04-12 09:45:42,885 - ebanking -INFO - click of gender
+2021-04-12 09:45:42,926 - ebanking -INFO - Clear birthday field
+2021-04-12 09:45:42,982 - ebanking -INFO - Enter customer birthday
+2021-04-12 09:45:43,198 - ebanking -INFO - Enter customer address info
+2021-04-12 09:45:43,254 - ebanking -INFO - Enter customer phone number
+2021-04-12 09:45:43,314 - ebanking -INFO - Enter random email
+2021-04-12 09:45:43,367 - ebanking -INFO - Enter password
+2021-04-12 09:45:46,731 - ebanking -INFO - Adding new customer was successful
+2021-04-12 09:45:49,965 - ebanking -INFO - Url is opened
+2021-04-12 09:45:50,466 - ebanking -INFO - Log successfully into the application
+2021-04-12 09:45:50,613 - ebanking -INFO - Navigate to the New Account Page
+2021-04-12 09:45:55,691 - ebanking -INFO - Enter customer ID
+2021-04-12 09:45:55,798 - ebanking -INFO - Select the account type
+2021-04-12 09:45:55,849 - ebanking -INFO - Enter a random initial deposit
+2021-04-12 09:46:01,156 - ebanking -INFO - Submit the new account form
+2021-04-12 09:46:11,178 - ebanking -INFO - Addition of an account was successful
+2021-04-12 09:49:26,410 - ebanking -INFO - Url is opened
+2021-04-12 09:49:26,513 - ebanking -INFO - Enterring the userID
+2021-04-12 09:49:26,563 - ebanking -INFO - Enterring the password
+2021-04-12 09:49:32,928 - ebanking -INFO - Url is opened
+2021-04-12 09:49:33,021 - ebanking -INFO - Enterred username
+2021-04-12 09:49:33,091 - ebanking -INFO - Enterred password
+2021-04-12 09:49:38,405 - ebanking -INFO - Login is successful
+2021-04-12 09:49:41,958 - ebanking -INFO - Enterred username
+2021-04-12 09:49:42,013 - ebanking -INFO - Enterred password
+2021-04-12 09:49:47,080 - ebanking -INFO - Login is successful
+2021-04-12 09:50:07,450 - ebanking -INFO - Enterred username
+2021-04-12 09:50:07,494 - ebanking -INFO - Enterred password
+2021-04-12 09:50:13,224 - ebanking -INFO - Enterred username
+2021-04-12 09:50:13,286 - ebanking -INFO - Enterred password
+2021-04-12 09:50:18,571 - ebanking -INFO - Login is successful
+2021-04-12 09:50:25,344 - ebanking -INFO - Url is opened
+2021-04-12 09:50:30,754 - ebanking -INFO - Loggin successfully into the application
+2021-04-12 09:50:30,949 - ebanking -INFO - click on Add New Customer Link
+2021-04-12 09:50:36,046 - ebanking -INFO - Enter customer name
+2021-04-12 09:50:36,096 - ebanking -INFO - click of gender
+2021-04-12 09:50:36,128 - ebanking -INFO - Clear birthday field
+2021-04-12 09:50:36,175 - ebanking -INFO - Enter customer birthday
+2021-04-12 09:50:36,359 - ebanking -INFO - Enter customer address info
+2021-04-12 09:50:36,408 - ebanking -INFO - Enter customer phone number
+2021-04-12 09:50:36,470 - ebanking -INFO - Enter random email
+2021-04-12 09:50:36,513 - ebanking -INFO - Enter password
+2021-04-12 09:50:39,870 - ebanking -INFO - Adding new customer was successful
+2021-04-12 09:50:42,966 - ebanking -INFO - Url is opened
+2021-04-12 09:50:43,470 - ebanking -INFO - Log successfully into the application
+2021-04-12 09:50:43,604 - ebanking -INFO - Navigate to the New Account Page
+2021-04-12 09:50:48,674 - ebanking -INFO - Enter customer ID
+2021-04-12 09:50:48,770 - ebanking -INFO - Select the account type
+2021-04-12 09:50:48,818 - ebanking -INFO - Enter a random initial deposit
+2021-04-12 09:50:54,137 - ebanking -INFO - Submit the new account form
+2021-04-12 09:51:04,168 - ebanking -INFO - Addition of an account was successful
+2021-04-12 13:37:37,515 - ebanking -INFO - Url is opened
+2021-04-12 13:37:37,629 - ebanking -INFO - Enterring the userID
+2021-04-12 13:37:37,681 - ebanking -INFO - Enterring the password
+2021-04-12 13:37:44,229 - ebanking -INFO - Url is opened
+2021-04-12 13:37:44,315 - ebanking -INFO - Enterred username
+2021-04-12 13:37:44,366 - ebanking -INFO - Enterred password
+2021-04-12 13:37:49,730 - ebanking -INFO - Login is successful
+2021-04-12 13:37:53,487 - ebanking -INFO - Enterred username
+2021-04-12 13:37:53,534 - ebanking -INFO - Enterred password
+2021-04-12 13:37:58,582 - ebanking -INFO - Login is successful
+2021-04-12 13:38:18,944 - ebanking -INFO - Enterred username
+2021-04-12 13:38:18,987 - ebanking -INFO - Enterred password
+2021-04-12 13:38:24,783 - ebanking -INFO - Enterred username
+2021-04-12 13:38:24,829 - ebanking -INFO - Enterred password
+2021-04-12 13:38:30,116 - ebanking -INFO - Login is successful
+2021-04-12 13:38:36,753 - ebanking -INFO - Url is opened
+2021-04-12 13:38:42,237 - ebanking -INFO - Loggin successfully into the application
+2021-04-12 13:38:42,485 - ebanking -INFO - click on Add New Customer Link
+2021-04-12 13:38:47,596 - ebanking -INFO - Enter customer name
+2021-04-12 13:38:47,660 - ebanking -INFO - click of gender
+2021-04-12 13:38:47,708 - ebanking -INFO - Clear birthday field
+2021-04-12 13:38:47,766 - ebanking -INFO - Enter customer birthday
+2021-04-12 13:38:48,001 - ebanking -INFO - Enter customer address info
+2021-04-12 13:38:48,065 - ebanking -INFO - Enter customer phone number
+2021-04-12 13:38:48,134 - ebanking -INFO - Enter random email
+2021-04-12 13:38:48,188 - ebanking -INFO - Enter password
+2021-04-12 13:38:51,526 - ebanking -INFO - Adding new customer was successful
+2021-04-12 13:38:54,661 - ebanking -INFO - Url is opened
+2021-04-12 13:38:55,147 - ebanking -INFO - Log successfully into the application
+2021-04-12 13:38:55,320 - ebanking -INFO - Navigate to the New Account Page
+2021-04-12 13:39:00,407 - ebanking -INFO - Enter customer ID
+2021-04-12 13:39:00,542 - ebanking -INFO - Select the account type
+2021-04-12 13:39:00,597 - ebanking -INFO - Enter a random initial deposit
+2021-04-12 13:39:05,970 - ebanking -INFO - Submit the new account form
+2021-04-12 13:39:15,996 - ebanking -INFO - Addition of an account was successful
